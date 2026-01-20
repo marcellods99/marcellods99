@@ -44,6 +44,8 @@ A caminho dev back-end
 <br>
 
 <!-- Snake Game Animation -->
-<img src="https://github.com/marcellods99/marcellods99/blob/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
+
+<img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
+
 
 </div>
