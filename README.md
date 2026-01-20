@@ -43,6 +43,45 @@ A caminho dev back-end
 
 <br>
 
+<br>
+
+<h3>🎓 Formação & Estudos</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Desenvolvimento Back-End Python (Alura)</h4>
+      <p><i>Foco em APIs, arquitetura e boas práticas.</i></p>
+      <ul>
+        <li>✅ Python 3: Avançando na Orientação a Objetos</li>
+        <li>🔄 Python: Trabalhando com I/O</li>
+        <li>🚧 Django: Criando APIs REST (Em breve)</li>
+        <li>🚧 FastAPI: APIs assíncronas (Em breve)</li>
+      </ul>
+      <br>
+      <b>Progresso da Carreira:</b><br>
+      <img src="https://geps.dev/progress/25?danger_value=15&warning_value=50&success_value=80" alt="Progress Bar" /> 
+      <i>(Exemplo: 25%)</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐍 Curso em Vídeo (Guanabara)</h4>
+      <p><i>Base sólida de lógica e sintaxe.</i></p>
+      <ul>
+        <li>✅ Mundo 1: Fundamentos</li>
+        <li>🚧 Mundo 2: Estruturas de Repetição</li>
+        <li>⬜ Mundo 3: Estruturas Compostas</li>
+      </ul>
+      <br>
+      <b>Progresso do Curso:</b><br>
+      <img src="https://geps.dev/progress/45?danger_value=15&warning_value=50&success_value=80" alt="Progress Bar" />
+      <i>(Exemplo: 45%)</i>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
 <!-- Snake Game Animation -->
 
 <img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
