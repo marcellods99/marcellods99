@@ -43,7 +43,7 @@ A caminho dev back-end
 
 <br>
 
-<h3>🎓 Formação & Estudos (XP Atual)</h3>
+<h3>🎓 Formação & Estudos</h3>
 
 <table>
   <tr>
@@ -51,50 +51,42 @@ A caminho dev back-end
       <h4>🐍 Formação Python (Alura)</h4>
       <p><i>Foco: Dominar a sintaxe e a lógica.</i></p>
       
-      <!-- Python 3 Intro -->
-      <b>✅ Python 3: Intro e POO</b> <br>
-      <img src="https://geps.dev/progress/100?danger_value=20&warning_value=50&success_value=80" height="10" />
+      <b>✅ Python 3: Intro e POO</b><br>
+      <img src="https://geps.dev/progress/100" />
       <br><br>
 
-      <!-- Praticando Python -->
-      <b>🔄 Praticando Python: Funções</b> <br>
-      <img src="https://geps.dev/progress/50?danger_value=20&warning_value=50&success_value=80" height="10" />
+      <b>🔄 Praticando Python: Funções</b><br>
+      <img src="https://geps.dev/progress/50" />
       <br><br>
 
-      <!-- Futuro -->
-      <b>🔒 Aplicações Web & APIs</b> <br>
-      <img src="https://geps.dev/progress/0?danger_value=20&warning_value=50&success_value=80" height="10" />
+      <b>🔒 Aplicações Web & APIs</b><br>
+      <img src="https://geps.dev/progress/0" />
     </td>
 
     <td width="50%" valign="top">
       <h4>🎮 Curso em Vídeo (Guanabara)</h4>
       <p><i>Reforço de lógica com exercícios.</i></p>
 
-      <!-- Mundo 1 -->
-      <b>✅ Mundo 1: Fundamentos (100%)</b> <br>
-      <img src="https://geps.dev/progress/100?danger_value=20&warning_value=50&success_value=80" height="10" />
+      <b>✅ Mundo 1: Fundamentos (100%)</b><br>
+      <img src="https://geps.dev/progress/100" />
       <br><br>
 
-      <!-- Mundo 2 -->
-      <b>🔄 Mundo 2: Repetições (43%)</b> <br>
-      <img src="https://geps.dev/progress/43?danger_value=20&warning_value=50&success_value=80" height="10" />
+      <b>🔄 Mundo 2: Repetições (43%)</b><br>
+      <img src="https://geps.dev/progress/43" />
       <br><br>
 
-      <!-- Mundo 3 -->
-      <b>🔒 Mundo 3: Compostas (0%)</b> <br>
-      <img src="https://geps.dev/progress/0?danger_value=20&warning_value=50&success_value=80" height="10" />
+      <b>🔒 Mundo 3: Compostas (0%)</b><br>
+      <img src="https://geps.dev/progress/0" />
       <br><br>
       
-      <!-- POO -->
-      <b>🔒 POO: Orientação a Objetos (0%)</b> <br>
-      <img src="https://geps.dev/progress/0?danger_value=20&warning_value=50&success_value=80" height="10" />
+      <b>🔒 POO: Orientação a Objetos (0%)</b><br>
+      <img src="https://geps.dev/progress/0" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- Snake Game Animation -->
-<img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg?v=1" alt="snake game" width="100%" />
+<img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
 
 </div>
