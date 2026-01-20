@@ -48,19 +48,18 @@ A caminho dev back-end
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎮 Curso em Vídeo (Guanabara)</h4>
-      <p><i>Reforço de lógica com exercícios práticos.</i></p>
+      <h4>🐍 Formação Python (Alura)</h4>
+      <p><i>Foco: Dominar a sintaxe e a lógica da linguagem.</i></p>
       <ul>
-        <li>✅ Mundo 1: Fundamentos</li>
-        <li>🔄 Mundo 2: Estruturas de Repetição (43%)</li>
-        <li>🔒 Mundo 3: Estruturas Compostas</li>
-        <li>🔒 POO: Orientação a Objetos</li>
+        <li>✅ Python 3: Intro e Orientação a Objetos</li>
+        <li>🔄 Praticando Python: Funções e I/O (Atual)</li>
+        <li>🔒 Estruturando Aplicações Web (Próximo)</li>
+        <li>🔒 APIs e Frameworks (Futuro)</li>
       </ul>
       <br>
-      <b>Progresso Geral:</b><br>
-      <img src="https://geps.dev/progress/43?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" />
+      <b>Progresso da Formação:</b><br>
+      <img src="https://geps.dev/progress/15?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" /> 
     </td>
-
     <td width="50%" valign="top">
       <h4>🎮 Curso em Vídeo (Guanabara)</h4>
       <p><i>Reforço de lógica com exercícios práticos.</i></p>
@@ -72,7 +71,7 @@ A caminho dev back-end
       </ul>
       <br>
       <b>Progresso Geral:</b><br>
-      <img src="https://geps.dev/progress/35?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" />
+      <img src="https://geps.dev/progress/43?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" />
     </td>
   </tr>
 </table>
