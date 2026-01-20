@@ -19,7 +19,16 @@ A caminho dev back-end
   <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-<br><br>
+<br>
+
+<h3>📚 Foco da Semana</h3>
+<p>
+🐍 <b>Python:</b> Progressão Aritmética (Guanabara)<br>
+⚙️ <b>Lógica:</b> Estruturas de repetição (While)<br>
+🎯 <b>Meta:</b> Terminar Mundo 2 até sexta
+</p>
+
+<br>
 
 <table>
   <tr>
@@ -31,5 +40,10 @@ A caminho dev back-end
     </td>
   </tr>
 </table>
+
+<br>
+
+<!-- Snake Game Animation -->
+<img src="https://github.com/marcellods99/marcellods99/blob/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
 
 </div>
