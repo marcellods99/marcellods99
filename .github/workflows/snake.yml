@@ -1,0 +1,44 @@
+# Nome da nossa "Fábrica"
+name: Generate Snake
+
+# 1. GATILHOS (Quando rodar?)
+on:
+  # Roda automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Permite rodar manualmente clicando num botão (ótimo para testar!)
+  workflow_dispatch:
+
+# 2. O TRABALHO (O que fazer?)
+jobs:
+  build:
+    runs-on: ubuntu-latest # O computador que o GitHub empresta pra gente
+    
+    # Precisamos de permissão para escrever na branch 'output'
+    permissions: 
+      contents: write
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar a Cobrinha (Snake Game)
+        uses: Platane/snk@v3
+        with:
+          # O nome do usuário (pega automático do repositório)
+          github_user_name: ${{ github.repository_owner }}
+          
+          # AQUI É IMPORTANTE: Define os arquivos que serão gerados
+          # Note que estamos gerando EXATAMENTE o nome que está no seu README
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publicar na branch de saída (output)
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output # A branch que o seu README procura
+          build_dir: dist # A pasta onde o passo anterior salvou o desenho
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # A chave para o robô ter permissão de postar
