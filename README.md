@@ -43,10 +43,6 @@ A caminho dev back-end
 
 <br>
 
-<br>
-
-<br>
-
 <h3>🎓 Formação & Estudos</h3>
 
 <table>
@@ -57,12 +53,11 @@ A caminho dev back-end
       <ul>
         <li>✅ Python 3: Intro e Orientação a Objetos</li>
         <li>🔄 Praticando Python: Funções e I/O (Atual)</li>
-        <li>⬜ Estruturando Aplicações Web (Próximo)</li>
-        <li>⬜ APIs e Frameworks (Futuro)</li>
+        <li>🔒 Estruturando Aplicações Web (Próximo)</li>
+        <li>🔒 APIs e Frameworks (Futuro)</li>
       </ul>
       <br>
       <b>Progresso da Formação:</b><br>
-      <!-- Ajustei para 15% representando a fase de fundamentos -->
       <img src="https://geps.dev/progress/15?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" /> 
     </td>
     <td width="50%" valign="top">
@@ -70,24 +65,20 @@ A caminho dev back-end
       <p><i>Reforço de lógica com exercícios práticos.</i></p>
       <ul>
         <li>✅ Mundo 1: Fundamentos</li>
-        <li>🔄 Mundo 2: Estruturas de Repetição</li>
-        <li>⬜ Mundo 3: Estruturas Compostas</li>
+        <li>🔄 Mundo 2: Estruturas de Repetição (43%)</li>
+        <li>🔒 Mundo 3: Estruturas Compostas</li>
+        <li>🔒 POO: Orientação a Objetos</li>
       </ul>
       <br>
-      <b>Progresso do Curso:</b><br>
-      <!-- Ajustei para ~40% já que você está no meio do Mundo 2 -->
-      <img src="https://geps.dev/progress/40?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" />
+      <b>Progresso Geral:</b><br>
+      <img src="https://geps.dev/progress/35?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" />
     </td>
   </tr>
 </table>
 
 <br>
 
-
-
 <!-- Snake Game Animation -->
-
-<img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
-
+<img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg?v=1" alt="snake game" width="100%" />
 
 </div>
