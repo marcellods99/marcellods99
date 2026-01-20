@@ -43,56 +43,36 @@ A caminho dev back-end
 
 <br>
 
-<h3>🎓 Formação & Estudos</h3>
+## 🎓 Formação & Estudos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐍 Formação Python (Alura)</h4>
-      <p><i>Foco: Dominar a sintaxe e a lógica.</i></p>
-      
-      <p>
-        <b>✅ Python 3: Intro e POO</b><br>
-        <img src="https://geps.dev/progress/100" alt="100%" />
-      </p>
+### 🐍 Formação Python (Alura)
+*Foco: Dominar a sintaxe e a lógica da linguagem.*
 
-      <p>
-        <b>🔄 Praticando Python: Funções</b><br>
-        <img src="https://geps.dev/progress/50" alt="50%" />
-      </p>
+**✅ Python 3: Intro e POO**  
+![100%](https://geps.dev/progress/100)
 
-      <p>
-        <b>🔒 Aplicações Web & APIs</b><br>
-        <img src="https://geps.dev/progress/0" alt="0%" />
-      </p>
-    </td>
+**🔄 Praticando Python: Funções**  
+![50%](https://geps.dev/progress/50)
 
-    <td width="50%" valign="top">
-      <h4>🎮 Curso em Vídeo (Guanabara)</h4>
-      <p><i>Reforço de lógica com exercícios.</i></p>
+**🔒 Aplicações Web & APIs**  
+![0%](https://geps.dev/progress/0)
 
-      <p>
-        <b>✅ Mundo 1: Fundamentos (100%)</b><br>
-        <img src="https://geps.dev/progress/100" alt="100%" />
-      </p>
+---
 
-      <p>
-        <b>🔄 Mundo 2: Repetições (43%)</b><br>
-        <img src="https://geps.dev/progress/43" alt="43%" />
-      </p>
+### 🎮 Curso em Vídeo (Guanabara)
+*Reforço de lógica com exercícios práticos.*
 
-      <p>
-        <b>🔒 Mundo 3: Compostas (0%)</b><br>
-        <img src="https://geps.dev/progress/0" alt="0%" />
-      </p>
-      
-      <p>
-        <b>🔒 POO: Orientação a Objetos (0%)</b><br>
-        <img src="https://geps.dev/progress/0" alt="0%" />
-      </p>
-    </td>
-  </tr>
-</table>
+**✅ Mundo 1: Fundamentos (100%)**  
+![100%](https://geps.dev/progress/100)
+
+**🔄 Mundo 2: Repetições (43%)**  
+![43%](https://geps.dev/progress/43)
+
+**🔒 Mundo 3: Compostas (0%)**  
+![0%](https://geps.dev/progress/0)
+
+**🔒 POO: Orientação a Objetos (0%)**  
+![0%](https://geps.dev/progress/0)
 
 <br>
 
