@@ -45,41 +45,44 @@ A caminho dev back-end
 
 <br>
 
+<br>
+
 <h3>🎓 Formação & Estudos</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 Desenvolvimento Back-End Python (Alura)</h4>
-      <p><i>Foco em APIs, arquitetura e boas práticas.</i></p>
+      <h4>🐍 Formação Python (Alura)</h4>
+      <p><i>Foco: Dominar a sintaxe e a lógica da linguagem.</i></p>
       <ul>
-        <li>✅ Python 3: Avançando na Orientação a Objetos</li>
-        <li>🔄 Python: Trabalhando com I/O</li>
-        <li>🚧 Django: Criando APIs REST (Em breve)</li>
-        <li>🚧 FastAPI: APIs assíncronas (Em breve)</li>
+        <li>✅ Python 3: Intro e Orientação a Objetos</li>
+        <li>🔄 Praticando Python: Funções e I/O (Atual)</li>
+        <li>⬜ Estruturando Aplicações Web (Próximo)</li>
+        <li>⬜ APIs e Frameworks (Futuro)</li>
       </ul>
       <br>
-      <b>Progresso da Carreira:</b><br>
-      <img src="https://geps.dev/progress/25?danger_value=15&warning_value=50&success_value=80" alt="Progress Bar" /> 
-      <i>(Exemplo: 25%)</i>
+      <b>Progresso da Formação:</b><br>
+      <!-- Ajustei para 15% representando a fase de fundamentos -->
+      <img src="https://geps.dev/progress/15?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" /> 
     </td>
     <td width="50%" valign="top">
-      <h4>🐍 Curso em Vídeo (Guanabara)</h4>
-      <p><i>Base sólida de lógica e sintaxe.</i></p>
+      <h4>🎮 Curso em Vídeo (Guanabara)</h4>
+      <p><i>Reforço de lógica com exercícios práticos.</i></p>
       <ul>
         <li>✅ Mundo 1: Fundamentos</li>
-        <li>🚧 Mundo 2: Estruturas de Repetição</li>
+        <li>🔄 Mundo 2: Estruturas de Repetição</li>
         <li>⬜ Mundo 3: Estruturas Compostas</li>
       </ul>
       <br>
       <b>Progresso do Curso:</b><br>
-      <img src="https://geps.dev/progress/45?danger_value=15&warning_value=50&success_value=80" alt="Progress Bar" />
-      <i>(Exemplo: 45%)</i>
+      <!-- Ajustei para ~40% já que você está no meio do Mundo 2 -->
+      <img src="https://geps.dev/progress/40?danger_value=20&warning_value=50&success_value=80" alt="Progress Bar" />
     </td>
   </tr>
 </table>
 
 <br>
+
 
 
 <!-- Snake Game Animation -->
