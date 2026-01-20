@@ -52,7 +52,7 @@ A caminho dev back-end
 ![100%](https://geps.dev/progress/100)
 
 **🔄 Praticando Python: Funções**  
-![50%](https://geps.dev/progress/50)
+![57%](https://geps.dev/progress/57)
 
 **🔒 Aplicações Web & APIs**  
 ![0%](https://geps.dev/progress/0)
