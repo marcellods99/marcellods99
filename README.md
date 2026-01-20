@@ -51,36 +51,45 @@ A caminho dev back-end
       <h4>🐍 Formação Python (Alura)</h4>
       <p><i>Foco: Dominar a sintaxe e a lógica.</i></p>
       
-      <b>✅ Python 3: Intro e POO</b><br>
-      <img src="https://geps.dev/progress/100" />
-      <br><br>
+      <p>
+        <b>✅ Python 3: Intro e POO</b><br>
+        <img src="https://geps.dev/progress/100" alt="100%" />
+      </p>
 
-      <b>🔄 Praticando Python: Funções</b><br>
-      <img src="https://geps.dev/progress/50" />
-      <br><br>
+      <p>
+        <b>🔄 Praticando Python: Funções</b><br>
+        <img src="https://geps.dev/progress/50" alt="50%" />
+      </p>
 
-      <b>🔒 Aplicações Web & APIs</b><br>
-      <img src="https://geps.dev/progress/0" />
+      <p>
+        <b>🔒 Aplicações Web & APIs</b><br>
+        <img src="https://geps.dev/progress/0" alt="0%" />
+      </p>
     </td>
 
     <td width="50%" valign="top">
       <h4>🎮 Curso em Vídeo (Guanabara)</h4>
       <p><i>Reforço de lógica com exercícios.</i></p>
 
-      <b>✅ Mundo 1: Fundamentos (100%)</b><br>
-      <img src="https://geps.dev/progress/100" />
-      <br><br>
+      <p>
+        <b>✅ Mundo 1: Fundamentos (100%)</b><br>
+        <img src="https://geps.dev/progress/100" alt="100%" />
+      </p>
 
-      <b>🔄 Mundo 2: Repetições (43%)</b><br>
-      <img src="https://geps.dev/progress/43" />
-      <br><br>
+      <p>
+        <b>🔄 Mundo 2: Repetições (43%)</b><br>
+        <img src="https://geps.dev/progress/43" alt="43%" />
+      </p>
 
-      <b>🔒 Mundo 3: Compostas (0%)</b><br>
-      <img src="https://geps.dev/progress/0" />
-      <br><br>
+      <p>
+        <b>🔒 Mundo 3: Compostas (0%)</b><br>
+        <img src="https://geps.dev/progress/0" alt="0%" />
+      </p>
       
-      <b>🔒 POO: Orientação a Objetos (0%)</b><br>
-      <img src="https://geps.dev/progress/0" />
+      <p>
+        <b>🔒 POO: Orientação a Objetos (0%)</b><br>
+        <img src="https://geps.dev/progress/0" alt="0%" />
+      </p>
     </td>
   </tr>
 </table>
