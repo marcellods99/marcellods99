@@ -3,9 +3,9 @@
 <h1>👋 Opa, seja bem vindo!</h1>
 
 <p>
-Estudante de ADS<br>
-Curso Alura<br>
-A caminho dev back-end
+Estudante Técnico em ADS (Senac)<br>
+Foco em Back-End Python<br>
+A procura de estágio
 </p>
 
 <a href="https://linkedin.com/in/marcellods99">
@@ -17,6 +17,7 @@ A caminho dev back-end
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 <br>
@@ -24,7 +25,7 @@ A caminho dev back-end
 <h3>📚 Foco da Semana</h3>
 <p>
 🐍 <b>Python:</b> Progressão Aritmética (Guanabara)<br>
-⚙️ <b>Lógica:</b> Estruturas de repetição (While)<br>
+🗄️ <b>Senac:</b> Modelagem de Banco de Dados<br>
 🎯 <b>Meta:</b> Terminar Mundo 2 até sexta
 </p>
 
@@ -43,36 +44,63 @@ A caminho dev back-end
 
 <br>
 
-## 🎓 Formação & Estudos
+## 🎓 Formação Acadêmica
 
-### 🐍 Formação Python (Alura)
-*Foco: Dominar a sintaxe e a lógica da linguagem.*
+### 🏛️ Técnico em Desenvolvimento de Sistemas (Senac EAD)
+*Previsão de Conclusão: 06/2027*
 
-**✅ Python 3: Intro e POO**  
+**✅ Introdução a Banco de Dados**  
 ![100%](https://geps.dev/progress/100)
 
-**🔄 Praticando Python: Funções**  
-![57%](https://geps.dev/progress/57)
+**🔄 Modelagem de Dados & DER (Semana 2)**  
+![15%](https://geps.dev/progress/15)
 
-**🔒 Aplicações Web & APIs**  
+**🔒 SQL & Manipulação de Dados**  
 ![0%](https://geps.dev/progress/0)
 
----
+<br>
+<hr>
+<br>
 
-### 🎮 Curso em Vídeo (Guanabara)
-*Reforço de lógica com exercícios práticos.*
+## 🚀 Cursos Complementares
 
-**✅ Mundo 1: Fundamentos (100%)**  
-![100%](https://geps.dev/progress/100)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 Formação Python (Alura)</h3>
+      <i>Fase: Fundamentos</i><br><br>
 
-**🔄 Mundo 2: Repetições (43%)**  
-![43%](https://geps.dev/progress/43)
+      <b>✅ Pensamento Computacional</b><br>
+      <img src="https://geps.dev/progress/100" /><br>
 
-**🔒 Mundo 3: Compostas (0%)**  
-![0%](https://geps.dev/progress/0)
+      <b>🔄 Python: Primeira App (10%)</b><br>
+      <img src="https://geps.dev/progress/10" /><br>
 
-**🔒 POO: Orientação a Objetos (0%)**  
-![0%](https://geps.dev/progress/0)
+      <b>🔄 Funções & I/O (57%)</b><br>
+      <img src="https://geps.dev/progress/57" /><br>
+
+      <b>🔒 Estruturas Lógicas</b><br>
+      <img src="https://geps.dev/progress/0" />
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🎮 Curso em Vídeo (Guanabara)</h3>
+      <i>Fase: Lógica de Programação</i><br><br>
+
+      <b>✅ Mundo 1: Fundamentos</b><br>
+      <img src="https://geps.dev/progress/100" /><br>
+
+      <b>🔄 Mundo 2: Repetições (43%)</b><br>
+      <img src="https://geps.dev/progress/43" /><br>
+
+      <b>🔒 Mundo 3: Compostas</b><br>
+      <img src="https://geps.dev/progress/0" /><br>
+      
+      <b>🔒 POO: Orientação a Objetos</b><br>
+      <img src="https://geps.dev/progress/0" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
