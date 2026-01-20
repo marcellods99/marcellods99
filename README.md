@@ -64,43 +64,37 @@ A procura de estágio
 
 ## 🚀 Cursos Complementares
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐍 Formação Python (Alura)</h3>
-      <i>Fase: Fundamentos</i><br><br>
+### 🐍 Formação Python (Alura)
+*Fase: Fundamentos*
 
-      <b>✅ Pensamento Computacional</b><br>
-      <img src="https://geps.dev/progress/100" /><br>
+**✅ Pensamento Computacional**  
+![100%](https://geps.dev/progress/100)
 
-      <b>🔄 Python: Primeira App (10%)</b><br>
-      <img src="https://geps.dev/progress/10" /><br>
+**🔄 Python: Primeira App (10%)**  
+![10%](https://geps.dev/progress/10)
 
-      <b>🔄 Funções & I/O (57%)</b><br>
-      <img src="https://geps.dev/progress/57" /><br>
+**🔄 Funções & I/O (57%)**  
+![57%](https://geps.dev/progress/57)
 
-      <b>🔒 Estruturas Lógicas</b><br>
-      <img src="https://geps.dev/progress/0" />
-    </td>
+**🔒 Estruturas Lógicas**  
+![0%](https://geps.dev/progress/0)
 
-    <td width="50%" valign="top">
-      <h3>🎮 Curso em Vídeo (Guanabara)</h3>
-      <i>Fase: Lógica de Programação</i><br><br>
+---
 
-      <b>✅ Mundo 1: Fundamentos</b><br>
-      <img src="https://geps.dev/progress/100" /><br>
+### 🎮 Curso em Vídeo (Guanabara)
+*Fase: Lógica de Programação*
 
-      <b>🔄 Mundo 2: Repetições (43%)</b><br>
-      <img src="https://geps.dev/progress/43" /><br>
+**✅ Mundo 1: Fundamentos**  
+![100%](https://geps.dev/progress/100)
 
-      <b>🔒 Mundo 3: Compostas</b><br>
-      <img src="https://geps.dev/progress/0" /><br>
-      
-      <b>🔒 POO: Orientação a Objetos</b><br>
-      <img src="https://geps.dev/progress/0" />
-    </td>
-  </tr>
-</table>
+**🔄 Mundo 2: Repetições (43%)**  
+![43%](https://geps.dev/progress/43)
+
+**🔒 Mundo 3: Compostas**  
+![0%](https://geps.dev/progress/0)
+
+**🔒 POO: Orientação a Objetos**  
+![0%](https://geps.dev/progress/0)
 
 <br>
 
