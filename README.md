@@ -15,9 +15,9 @@ A procura de estágio
 <br><br>
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 <br>
@@ -37,7 +37,7 @@ A procura de estágio
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellods99&layout=compact&theme=radical&hide_border=true" width="350px" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=marcellods99&show_icons=true&theme=radical&hide_border=true" width="440px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcellods99&theme=radical&hide_border=true" width="440px" />
     </td>
   </tr>
 </table>
