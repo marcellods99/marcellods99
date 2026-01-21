@@ -3,9 +3,7 @@
 <h1>👋 Opa, seja bem vindo!</h1>
 
 <p>
-Estudante Técnico em ADS (Senac)<br>
-Foco em Back-End Python<br>
-A procura de estágio
+<strong>Estudante Técnico em ADS (Senac)</strong> | <strong>Foco em Back-End Python</strong> | 🎯 <strong>Buscando Estágio</strong>
 </p>
 
 <a href="https://linkedin.com/in/marcellods99">
@@ -14,22 +12,79 @@ A procura de estágio
 
 <br><br>
 
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura com IA | Python, Loops, Condicionais |
+| [**estudo-python**](https://github.com/marcellods99/estudo-python) | Repositório com exercícios e projetos dos cursos | Python, Alura, Guanabara |
+
+<br>
+
+---
+
+## 🛠️ Stack
+
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+<br><br>
+
+---
+
+## 📚 Jornada de Aprendizado
+
+### 🎓 Técnico em Desenvolvimento de Sistemas (Senac EAD)
+*Previsão de Conclusão: 06/2027*
+
+**✅ Introdução a Banco de Dados**  
+![100%](https://geps.dev/progress/100)
+
+**🔄 Modelagem de Dados & DER**  
+![15%](https://geps.dev/progress/15)
+
+**🔒 SQL & Manipulação de Dados**  
+![0%](https://geps.dev/progress/0)
+
 <br>
 
-<h3>📚 Foco da Semana</h3>
-<p>
-🐍 <b>Python:</b> Progressão Aritmética (Guanabara)<br>
-🗄️ <b>Senac:</b> Modelagem de Banco de Dados<br>
-🎯 <b>Meta:</b> Terminar Mundo 2 até sexta
-</p>
+### 🐍 Formação Python (Alura)
+
+**✅ Pensamento Computacional**  
+![100%](https://geps.dev/progress/100)
+
+**✅ Python: Primeira App**  
+![100%](https://geps.dev/progress/100)
+
+**🔄 Funções & I/O (Em Progresso)**  
+![57%](https://geps.dev/progress/57)
+
+**🔒 Estruturas Lógicas**  
+![0%](https://geps.dev/progress/0)
 
 <br>
+
+### 🎮 Lógica de Programação (Guanabara)
+
+**✅ Mundo 1: Fundamentos**  
+![100%](https://geps.dev/progress/100)
+
+**🔄 Mundo 2: Repetições (Em Progresso)**  
+![43%](https://geps.dev/progress/43)
+
+**🔒 Mundo 3: Estruturas Compostas**  
+![0%](https://geps.dev/progress/0)
+
+<br>
+
+---
+
+## 📊 GitHub Stats
 
 <table>
   <tr>
@@ -44,59 +99,7 @@ A procura de estágio
 
 <br>
 
-## 🎓 Formação Acadêmica
-
-### 🏛️ Técnico em Desenvolvimento de Sistemas (Senac EAD)
-*Previsão de Conclusão: 06/2027*
-
-**✅ Introdução a Banco de Dados**  
-![100%](https://geps.dev/progress/100)
-
-**🔄 Modelagem de Dados & DER (Semana 2)**  
-![15%](https://geps.dev/progress/15)
-
-**🔒 SQL & Manipulação de Dados**  
-![0%](https://geps.dev/progress/0)
-
-<br>
-<hr>
-<br>
-
-## 🚀 Cursos Complementares
-
-### 🐍 Formação Python (Alura)
-*Fase: Fundamentos*
-
-**✅ Pensamento Computacional**  
-![100%](https://geps.dev/progress/100)
-
-**🔄 Python: Primeira App (100%)**  
-![100%](https://geps.dev/progress/100)
-
-**🔄 Funções & I/O (57%)**  
-![57%](https://geps.dev/progress/57)
-
-**🔒 Estruturas Lógicas**  
-![0%](https://geps.dev/progress/0)
-
 ---
-
-### 🎮 Curso em Vídeo (Guanabara)
-*Fase: Lógica de Programação*
-
-**✅ Mundo 1: Fundamentos**  
-![100%](https://geps.dev/progress/100)
-
-**🔄 Mundo 2: Repetições (43%)**  
-![43%](https://geps.dev/progress/43)
-
-**🔒 Mundo 3: Compostas**  
-![0%](https://geps.dev/progress/0)
-
-**🔒 POO: Orientação a Objetos**  
-![0%](https://geps.dev/progress/0)
-
-<br>
 
 <img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
 
