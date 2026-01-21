@@ -37,10 +37,11 @@ A procura de estágio
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellods99&layout=compact&theme=radical&hide_border=true" width="350px" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcellods99&theme=radical&hide_border=true" width="440px" />
+      <img src="https://streak-stats.demolab.com/?user=marcellods99&theme=radical&hide_border=true" width="440px" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
