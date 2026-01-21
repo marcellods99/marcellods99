@@ -69,7 +69,7 @@
 
 <br>
 
-### 🎮 Lógica de Programação (Guanabara)
+### 🎮 Cursoemvideo (Guanabara)
 
 **✅ Mundo 1: Fundamentos**  
 ![100%](https://geps.dev/progress/100)
