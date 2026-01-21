@@ -42,7 +42,6 @@ A procura de estágio
   </tr>
 </table>
 
-
 <br>
 
 ## 🎓 Formação Acadêmica
