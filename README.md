@@ -70,8 +70,8 @@ A procura de estágio
 **✅ Pensamento Computacional**  
 ![100%](https://geps.dev/progress/100)
 
-**🔄 Python: Primeira App (10%)**  
-![10%](https://geps.dev/progress/10)
+**🔄 Python: Primeira App (100%)**  
+![100%](https://geps.dev/progress/100)
 
 **🔄 Funções & I/O (57%)**  
 ![57%](https://geps.dev/progress/57)
