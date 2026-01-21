@@ -6,7 +6,7 @@
 <strong>Estudante Técnico em ADS (Senac)</strong> | <strong>Foco em Back-End Python</strong> | 🎯 <strong>Buscando Estágio</strong>
 </p>
 
-<a href="https://linkedin.com/in/marcellods99">
+<a href="https://linkedin.com/marcellods99">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
 
