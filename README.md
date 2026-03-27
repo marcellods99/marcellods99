@@ -3,7 +3,7 @@
 <h1>👋 Opa, seja bem vindo!</h1>
 
 <p>
-<strong>Estudante Técnico em ADS (Senac)</strong> | <strong>Foco em Back-End Python</strong> | 🎯 <strong>Buscando Estágio</strong>
+<strong>Estudante Técnico em ADS (Senac)</strong> | <strong>Foco em Back-End Python</strong>
 </p>
 
 <a href="https://linkedin.com/marcellods99">
