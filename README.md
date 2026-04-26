@@ -46,10 +46,10 @@
 ![100%](https://geps.dev/progress/100)
 
 **🔄 Modelagem de Dados & DER**  
-![15%](https://geps.dev/progress/15)
+![100%](https://geps.dev/progress/100)
 
 **🔒 SQL & Manipulação de Dados**  
-![0%](https://geps.dev/progress/0)
+![100%](https://geps.dev/progress/100)
 
 <br>
 
