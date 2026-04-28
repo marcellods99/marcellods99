@@ -40,7 +40,7 @@
 ## 📚 Jornada de Aprendizado
 
 ### 🎓 Técnico em Desenvolvimento de Sistemas (Senac EAD)
-*Previsão de Conclusão: 06/2027*
+*Previsão de Conclusão: 04/2026*
 
 **✅ Introdução a Banco de Dados**  
 ![100%](https://geps.dev/progress/100)
@@ -52,6 +52,9 @@
 ![100%](https://geps.dev/progress/100)
 
 ## 📚 Java + SQL
+
+### 🎓 Técnico em Desenvolvimento de Sistemas (Senac EAD)
+*Previsão de Conclusão: 06/2026*
 
 **✅  Desenvolver código orientado a objetos**  
 ![10%](https://geps.dev/progress/10)
