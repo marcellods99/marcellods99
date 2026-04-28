@@ -53,6 +53,18 @@
 
 <br>
 
+
+**✅  Desenvolver código orientado a objetos**  
+![10%](https://geps.dev/progress/10)
+
+
+
+**🔒 Projeto Integrador Assistente de desenvolvimento de sistemas**  
+![0](https://geps.dev/progress/0)
+
+<br>
+
+
 ### 🐍 Formação Python (Alura)
 
 **✅ Pensamento Computacional**  
