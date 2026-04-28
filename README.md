@@ -51,10 +51,10 @@
 **🔒 SQL & Manipulação de Dados**  
 ![100%](https://geps.dev/progress/100)
 
+## 📚 Java + Mysql
 
 **✅  Desenvolver código orientado a objetos**  
 ![10%](https://geps.dev/progress/10)
-
 
 
 **🔒 Projeto Integrador Assistente de desenvolvimento de sistemas**  
