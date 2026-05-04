@@ -56,7 +56,7 @@
 ### 🎓 Técnico em Desenvolvimento de Sistemas (Senac EAD)
 *Previsão de Conclusão: 06/2026*
 
-**✅  Desenvolver código orientado a objetos**  
+**🔄 Desenvolver código orientado a objetos**  
 ![10%](https://geps.dev/progress/10)
 
 
