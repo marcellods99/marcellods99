@@ -80,15 +80,15 @@
 
 <br>
 
-### 🎮 Cursoemvideo (Guanabara)
+### 🎮 Cursoemvideo (Guanabara) - Carga Horária 40h
 
-**✅ Mundo 1: Fundamentos**  
+**✅ Mundo 1 Python**  
 ![100%](https://geps.dev/progress/100)
 
-**🔄 Mundo 2: Repetições (Em Progresso)**  
+**🔄 Mundo 2 Python)**  
 ![43%](https://geps.dev/progress/43)
 
-**🔒 Mundo 3: Estruturas Compostas**  
+**🔒 Mundo 3 Python**  
 ![0%](https://geps.dev/progress/0)
 
 <br>
