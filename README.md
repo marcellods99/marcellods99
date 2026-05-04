@@ -68,17 +68,15 @@
 
 ### 🐍 Formação Python (Alura)
 
-**✅ Python: primeiros passos**  
+**✅ Python: primeiros passos - Carga Horária 10h**  
 ![73%](https://geps.dev/progress/73)
 
-**✅ Python: funções, estruturas de dados e exceções**  
+**🔄 Python: funções, estruturas de dados e exceções - Carga Horária 08h **  
 ![0%](https://geps.dev/progress/0)
 
-**🔄 Python: frequências e medidas**  
+**🔒 Python: frequências e medidas - Carga Horária 10h**  
 ![0%](https://geps.dev/progress/0)
 
-**🔒 SQLite online conhecendo instruções SQL**  
-![0%](https://geps.dev/progress/0)
 
 <br>
 
