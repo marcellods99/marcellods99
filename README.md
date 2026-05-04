@@ -45,10 +45,10 @@
 **✅ Introdução a Banco de Dados**  
 ![100%](https://geps.dev/progress/100)
 
-**🔄 Modelagem de Dados & DER**  
+**✅ Modelagem de Dados & DER**  
 ![100%](https://geps.dev/progress/100)
 
-**🔒 SQL & Manipulação de Dados**  
+**✅ SQL & Manipulação de Dados**  
 ![100%](https://geps.dev/progress/100)
 
 ## 📚 Java + SQL
