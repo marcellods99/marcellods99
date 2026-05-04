@@ -80,15 +80,15 @@
 
 <br>
 
-### 🎮 Cursoemvideo (Guanabara) - Carga Horária 40h
+### 🎮 Cursoemvideo (Guanabara)
 
-**✅ Mundo 1 Python**  
+**✅ Mundo 1 Python - Carga Horária 40h**  
 ![100%](https://geps.dev/progress/100)
 
-**🔄 Mundo 2 Python)**  
+**🔄 Mundo 2 Python - Carga Horária 40h)**  
 ![43%](https://geps.dev/progress/43)
 
-**🔒 Mundo 3 Python**  
+**🔒 Mundo 3 Python - Carga Horária 40h**  
 ![0%](https://geps.dev/progress/0)
 
 <br>
