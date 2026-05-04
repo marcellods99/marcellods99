@@ -68,16 +68,16 @@
 
 ### 🐍 Formação Python (Alura)
 
-**✅ Pensamento Computacional**  
-![100%](https://geps.dev/progress/100)
+**✅ Python: primeiros passos**  
+![73%](https://geps.dev/progress/73)
 
-**✅ Python: Primeira App**  
-![100%](https://geps.dev/progress/100)
+**✅ Python: funções, estruturas de dados e exceções**  
+![0%](https://geps.dev/progress/0)
 
-**🔄 Funções & I/O (Em Progresso)**  
-![57%](https://geps.dev/progress/57)
+**🔄 Python: frequências e medidas**  
+![0%](https://geps.dev/progress/0)
 
-**🔒 Estruturas Lógicas**  
+**🔒 SQLite online conhecendo instruções SQL**  
 ![0%](https://geps.dev/progress/0)
 
 <br>
