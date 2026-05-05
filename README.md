@@ -30,9 +30,7 @@
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png" alt="VSCode icon" style="margin-left:4px; vertical-align:middle;" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java icon" style="margin-left:4px; vertical-align:middle;" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
