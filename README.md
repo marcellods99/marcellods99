@@ -29,7 +29,7 @@
 
 <div style="display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=VSCode&message=%20&color=007ACC&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIgNiBMMTAgMTIgTDIgMTggWiBNMTAgNiBMMjIgMTIgTDEwIDE4IFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/static/v1?label=VSCode&message=%20&color=6E6E6E&labelColor=6E6E6E&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIgNiBMMTAgMTIgTDIgMTggWiBNMTAgNiBMMjIgMTIgTDEwIDE4IFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
