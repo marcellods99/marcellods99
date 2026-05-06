@@ -27,10 +27,16 @@
 
 ## 🛠️ Stack
 
-<div style="display: inline_block">
+<div style="display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <span style="display:inline-flex; align-items:center; background:#007ACC; color:#fff; border-radius:5px; height:28px; padding:0 10px; font-weight:700; font-family:Verdana, Geneva, DejaVu Sans, sans-serif; font-size:12px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VSCode" style="width:16px; height:16px; margin-right:6px; filter:invert(1) brightness(1.5);" />
+    VSCode
+  </span>
+  <span style="display:inline-flex; align-items:center; background:#ED8B00; color:#fff; border-radius:5px; height:28px; padding:0 10px; font-weight:700; font-family:Verdana, Geneva, DejaVu Sans, sans-serif; font-size:12px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" style="width:16px; height:16px; margin-right:6px; filter:invert(1) brightness(1.5);" />
+    Java
+  </span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
