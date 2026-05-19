@@ -18,7 +18,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura com IA | Python, Loops, Condicionais |
+| [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura | Python, Loops, Condicionais |
 | [**estudo-python**](https://github.com/marcellods99/estudo-python) | Repositório com exercícios e projetos dos cursos | Python, Alura, Guanabara |
 
 <br>
