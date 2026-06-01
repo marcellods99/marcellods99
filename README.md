@@ -101,10 +101,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellods99&layout=compact&theme=radical&hide_border=true" width="350px" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=radical" width="350px" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=marcellods99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&hide_rank=true" width="440px" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=radical" width="440px" />
     </td>
   </tr>
 </table>
@@ -113,6 +113,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
+<img src="https://ghchart.rshah.org/marcellods99" alt="GitHub contribution chart" width="100%" />
 
 </div>
