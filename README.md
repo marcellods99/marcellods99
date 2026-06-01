@@ -98,13 +98,13 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=radical" width="450px" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=radical&width=440" width="100%" style="max-width: 440px;" />
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=radical" width="440px" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=radical&width=440" width="100%" style="max-width: 440px;" />
     </td>
   </tr>
 </table>
