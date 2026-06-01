@@ -101,7 +101,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=radical" width="350px" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=radical" width="450px" />
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=radical" width="440px" />
