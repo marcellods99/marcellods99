@@ -43,10 +43,6 @@ Busco evoluir de forma prática, criando pequenos projetos e exercícios para co
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcellods99&theme=github_dark" />
 </div>
 
-<div align="center">
-  <img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=github_dark" />
-</div>
-
 ---
 
 ## 🚀 Projetos em Destaque
