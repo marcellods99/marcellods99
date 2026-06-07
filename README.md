@@ -5,7 +5,7 @@
 ### Estudante de Desenvolvimento de Sistemas | Python para Dados | Suporte de TI
 
 <p>
-  <a href="https://linkedin.com/marcellods99">
+  <a href="https://www.linkedin.com/in/marcellods99/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/marcellods99">
