@@ -10,4 +10,6 @@ python main.py
 
 > Código original de `Curso em Vídeo/Mundo 1/exe008.py`.
 
-Este projeto usa apenas o código que você já escreveu, sem nada a mais.
+## Sobre o código
+
+O programa converte um valor em metros para centímetros e milímetros. Ele faz multiplicações simples e mostra o resultado usando formatação de strings, demonstrando operações numéricas básicas.

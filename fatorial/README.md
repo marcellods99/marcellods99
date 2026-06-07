@@ -10,4 +10,6 @@ python main.py
 
 > Código original de `Alura Python/Exercicios/Aula 4/ex005.py`.
 
-Este projeto usa apenas o código que você já escreveu, sem nada a mais.
+## Sobre o código
+
+O programa calcula o fatorial de um número inteiro lido do usuário. Ele utiliza um loop `for` decrescente para multiplicar o número por seus antecessores até 1, ilustrando repetição e acumulação.
