@@ -19,9 +19,15 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura | Python, Loops, Condicionais |
-| [**estudo-python**](https://github.com/marcellods99/estudo-python) | Repositório de mini projetos Python: calculadora, edições de texto, coleta de dados e sistemas de validação | Python, Entrada/Saída, Loops, Condicionais |
+| [**estudo-python**](https://github.com/marcellods99/estudo-python) | Repositório de mini projetos Python: calculadora, texto-utils, coleta de dados e sistema de votação | Python, Entrada/Saída, Loops, Condicionais |
 
 <br>
+
+### Mini projetos adicionados
+- `calculadora-python/`
+- `texto-utils/`
+- `coleta-dados/`
+- `sistema-votacao/`
 
 ---
 
