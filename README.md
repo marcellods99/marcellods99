@@ -1,16 +1,47 @@
 <div align="center">
 
-<h1>👋 Opa, seja bem vindo!</h1>
+# Marcello Silveira 💻
+
+### Estudante de Desenvolvimento de Sistemas | Python para Dados | Suporte de TI
 
 <p>
-<strong>Estudante Técnico em ADS (Senac)</strong> | <strong>Foco para Ciência de Dados</strong>
+  <a href="https://linkedin.com/marcellods99">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/marcellods99">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<a href="https://linkedin.com/marcellods99">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-</a>
+</div>
 
-<br><br>
+---
+
+## 👨‍💻 Sobre mim
+
+Atualmente estudo **Desenvolvimento de Sistemas** e estou construindo minha base em **Python**, **lógica de programação**, **banco de dados** e **ciência de dados**.
+
+Também atuo com **suporte de TI e sistemas corporativos**, realizando rotinas como criação de usuários, liberação de acessos, autorizações para funcionários e ajustes cadastrais/contratuais em sistemas como o **Globus**. Meu foco no Globus é operacional e administrativo, não desenvolvimento de código.
+
+Busco evoluir de forma prática, criando pequenos projetos e exercícios para consolidar fundamentos antes de avançar para projetos maiores.
+
+---
+
+## 🛡️ Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,github,vscode" />
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcellods99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellods99&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
 ---
 
@@ -25,101 +56,40 @@
 | [**calculadora-analise**](./calculadora-analise/) | Calculadora que também analisa se os números são pares, positivos e inteiros | Python, Condicionais, Operadores |
 | [**estudo-python**](https://github.com/marcellods99/estudo-python) | Repositório com meus exercícios em Python dos cursos Alura e Curso em Vídeo | Python, Condicionais, Loops, Strings |
 
-<br>
-
----
-
-## 🛠️ Stack
-
-<div style="display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-6E6E6E?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-<br><br>
-
 ---
 
 ## 📚 Jornada de Aprendizado
 
-### 🎓 Técnico em Desenvolvimento de Sistemas (Senac EAD)
-*Previsão de Conclusão: 04/2026*
+### 🎓 Técnico em Desenvolvimento de Sistemas — Senac EAD
 
-**✅ Introdução a Banco de Dados**  
-![100%](https://geps.dev/progress/100)
+- ✅ Introdução a Banco de Dados
+- ✅ Modelagem de Dados e DER
+- ✅ SQL e Manipulação de Dados
+- 🔄 Desenvolvimento orientado a objetos com Java
+- 🔒 Projeto Integrador
 
-**✅ Modelagem de Dados & DER**  
-![100%](https://geps.dev/progress/100)
+### 🐍 Formação Python
 
-**✅ SQL & Manipulação de Dados**  
-![100%](https://geps.dev/progress/100)
-
-## 📚 Java + SQL
-
-### 🎓 Técnico em Desenvolvimento de Sistemas (Senac EAD)
-*Previsão de Conclusão: 06/2026*
-
-**🔄 Desenvolver código orientado a objetos**  
-![10%](https://geps.dev/progress/10)
-
-
-**🔒 Projeto Integrador Assistente de desenvolvimento de sistemas**  
-![0](https://geps.dev/progress/0)
-
-<br>
-
-
-### 🐍 Formação Python (Alura)
-
-**✅ Python: primeiros passos - Carga Horária 10h**  
-![73%](https://geps.dev/progress/73)
-
-**🔄 Python: funções, estruturas de dados e exceções - Carga Horária 08h **  
-![0%](https://geps.dev/progress/0)
-
-**🔒 Python: frequências e medidas - Carga Horária 10h**  
-![0%](https://geps.dev/progress/0)
-
-
-<br>
-
-### 🎮 Cursoemvideo (Guanabara)
-
-**✅ Mundo 1 Python - Carga Horária 40h**  
-![100%](https://geps.dev/progress/100)
-
-**🔄 Mundo 2 Python - Carga Horária 40h)**  
-![43%](https://geps.dev/progress/43)
-
-**🔒 Mundo 3 Python - Carga Horária 40h**  
-![0%](https://geps.dev/progress/0)
-
-<br>
+- ✅ Fundamentos de Python
+- 🔄 Funções, estruturas de dados e exceções
+- 🔒 Frequências e medidas
+- 🔒 Python para dados
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=radical&width=440" width="100%" style="max-width: 440px;" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=radical&width=440" width="100%" style="max-width: 440px;" />
-    </td>
-  </tr>
-</table>
-
-<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" width="100%" />
+  </picture>
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" width="100%" />
-</picture>
+<div align="center">
+
+**Em constante evolução. Um projeto, um exercício e um commit por vez.**
 
 </div>
