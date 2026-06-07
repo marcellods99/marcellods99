@@ -118,6 +118,11 @@
 
 ---
 
-<img src="https://ghchart.rshah.org/marcellods99" alt="GitHub contribution chart" width="100%" />
+## 🐍 Snake Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/dist/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/dist/github-contribution-grid-snake.svg" alt="Snake contribution graph" width="100%" />
+</picture>
 
 </div>
