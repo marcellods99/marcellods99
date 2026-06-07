@@ -101,10 +101,23 @@
 
 ---
 
-## � Snake Contribution Graph
+## 📊 GitHub Stats
 
-  
-  
-  
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=radical&width=440" width="100%" style="max-width: 440px;" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=radical&width=440" width="100%" style="max-width: 440px;" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<img src="https://ghchart.rshah.org/marcellods99" alt="GitHub contribution chart" width="100%" />
 
 </div>
