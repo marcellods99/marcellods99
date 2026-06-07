@@ -39,8 +39,12 @@ Busco evoluir de forma prática, criando pequenos projetos e exercícios para co
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcellods99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellods99&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcellods99&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellods99&theme=github_dark" />
 </div>
 
 ---
