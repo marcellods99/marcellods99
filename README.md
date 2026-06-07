@@ -6,8 +6,6 @@
 <strong>Estudante Técnico em ADS (Senac)</strong> | <strong>Foco para Ciência de Dados</strong>
 </p>
 
-<img alt="Snake GitHub contributions animation" src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.gif" width="700" />
-
 <a href="https://linkedin.com/marcellods99">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
@@ -116,5 +114,9 @@
 ---
 
 <img src="https://ghchart.rshah.org/marcellods99" alt="GitHub contribution chart" width="100%" />
+
+<br><br>
+
+<img alt="Snake GitHub contributions animation" src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.gif" width="700" />
 
 </div>
