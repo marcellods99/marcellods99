@@ -31,7 +31,7 @@ Busco evoluir de forma prática, criando pequenos projetos e exercícios para co
 ## 🛡️ Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,java" />
 </div>
 
 ---
