@@ -18,13 +18,12 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura | Python, Loops, Condicionais |
-| [**media-de-notas**](./media-de-notas/) | Calcula a média de três notas usando seu código original | Python, Entrada/Saída, Matemática |
-| [**texto-substituicao**](./texto-substituicao/) | Substitui todas as letras "a" por "@" em uma frase | Python, Strings, Manipulação de Texto |
-| [**coleta-usuario**](./coleta-usuario/) | Coleta nome, idade e altura do usuário | Python, Entrada/Saída, Formatação |
-| [**fatorial**](./fatorial/) | Calcula o fatorial de um número inteiro | Python, Loops, Matemática |
-| [**conversor-metrico**](./conversor-metrico/) | Converte metros em centímetros e milímetros | Python, Conversão de Unidade |
-| [**estudo-python**](https://github.com/marcellods99/marcellods99-github) | Repositório com meus exercícios em Python dos cursos Alura e Curso em Vídeo | Python, Condicionais, Loops, Strings |
+| [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura contra o computador | Python, Random, While, Try/Except, Condicionais |
+| [**numero-primo**](./numero-primo/) | Verifica se um número é primo usando laço, divisores e interrupção com break | Python, For, Condicionais, Matemática |
+| [**media-temperaturas**](./media-temperaturas/) | Calcula a média de temperaturas até o usuário informar o valor de parada | Python, While, Acumulador, Contador |
+| [**validacao-notas**](./validacao-notas/) | Valida 15 notas, repetindo a entrada até o valor estar entre 0 e 5 | Python, For, While, Validação |
+| [**calculadora-analise**](./calculadora-analise/) | Calculadora que também analisa se os números são pares, positivos e inteiros | Python, Condicionais, Operadores |
+| [**estudo-python**](https://github.com/marcellods99/estudo-python) | Repositório com meus exercícios em Python dos cursos Alura e Curso em Vídeo | Python, Condicionais, Loops, Strings |
 
 <br>
 
@@ -34,7 +33,7 @@
 
 <div style="display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-6E6E6E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/VSCode-6E6E6E?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
