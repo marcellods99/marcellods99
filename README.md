@@ -107,15 +107,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellods99&theme=radical&width=440" width="100%" style="max-width: 440px;" />
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" />
-        <img alt="Snake GitHub contributions animation" src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" width="700" />
-      </picture>
-    </td>
-  </tr>
 </table>
 
 <br>
