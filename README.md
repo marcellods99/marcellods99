@@ -62,25 +62,6 @@ Busco evoluir de forma prática, criando pequenos projetos e exercícios para co
 
 ---
 
-## 📚 Jornada de Aprendizado
-
-### 🎓 Técnico em Desenvolvimento de Sistemas — Senac EAD
-
-- ✅ Introdução a Banco de Dados
-- ✅ Modelagem de Dados e DER
-- ✅ SQL e Manipulação de Dados
-- 🔄 Desenvolvimento orientado a objetos com Java
-- 🔒 Projeto Integrador
-
-### 🐍 Formação Python
-
-- ✅ Fundamentos de Python
-- 🔄 Funções, estruturas de dados e exceções
-- 🔒 Frequências e medidas
-- 🔒 Python para dados
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
