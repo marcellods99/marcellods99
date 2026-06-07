@@ -117,6 +117,10 @@
 
 <br><br>
 
-<img alt="Snake GitHub contributions animation" src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.gif" width="700" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake GitHub contributions animation" src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" width="700" />
+</picture>
 
 </div>
