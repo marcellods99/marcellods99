@@ -36,9 +36,10 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publicar na branch de saída (output)
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output # A branch que o seu README procura
           build_dir: dist # A pasta onde o passo anterior salvou o desenho
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # A chave para o robô ter permissão de postar

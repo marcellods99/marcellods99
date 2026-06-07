@@ -6,6 +6,12 @@
 <strong>Estudante Técnico em ADS (Senac)</strong> | <strong>Foco para Ciência de Dados</strong>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake GitHub contributions animation" src="https://raw.githubusercontent.com/marcellods99/marcellods99/output/github-contribution-grid-snake.svg" width="700" />
+</picture>
+
 <a href="https://linkedin.com/marcellods99">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
