@@ -23,6 +23,17 @@
 
 <br>
 
+## 📁 Exercícios já existentes
+Esses exemplos já fazem parte das minhas aulas e são código meu, sem nada criado a mais.
+
+- `Alura Python/Exercicios/Aula 2/Calculadora com operadores/ex009.py` — média de notas.
+- `Alura Python/Exercicios/Aula 2/Editando textos/ex009.py` — troca vogais por `@`.
+- `Alura Python/Exercicios/Aula 2/Coleta e amostragem de dados/ex003.py` — coleta nome, idade e altura.
+- `Alura Python/Exercicios/Aula 4/ex005.py` — cálculo de fatorial.
+- `Curso em Vídeo/Mundo 1/exe008.py` — conversão de metros para centímetros e milímetros.
+
+<br>
+
 ---
 
 ## 🛠️ Stack
