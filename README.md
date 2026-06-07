@@ -19,6 +19,11 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura | Python, Loops, Condicionais |
+| [**media-de-notas**](./media-de-notas/) | Calcula a média de três notas usando seu código original | Python, Entrada/Saída, Matemática |
+| [**texto-substituicao**](./texto-substituicao/) | Substitui todas as letras "a" por "@" em uma frase | Python, Strings, Manipulação de Texto |
+| [**coleta-usuario**](./coleta-usuario/) | Coleta nome, idade e altura do usuário | Python, Entrada/Saída, Formatação |
+| [**fatorial**](./fatorial/) | Calcula o fatorial de um número inteiro | Python, Loops, Matemática |
+| [**conversor-metrico**](./conversor-metrico/) | Converte metros em centímetros e milímetros | Python, Conversão de Unidade |
 | [**estudo-python**](https://github.com/marcellods99/marcellods99-github) | Repositório com meus exercícios em Python dos cursos Alura e Curso em Vídeo | Python, Condicionais, Loops, Strings |
 
 <br>
