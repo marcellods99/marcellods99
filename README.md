@@ -19,18 +19,9 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**jokenpo**](https://github.com/marcellods99/jokenpo) | Jogo de Pedra, Papel e Tesoura | Python, Loops, Condicionais |
-| [**calculadora-python**](./calculadora-python/) | Calculadora CLI com operações básicas e média ponderada | Python, Entrada/Saída, Condicionais |
-| [**texto-utils**](./texto-utils/) | Utilitários de texto para manipulação e normalização | Python, Strings, Funções |
-| [**coleta-dados**](./coleta-dados/) | Coleta e validação de dados do usuário via console | Python, Validação, Formatação |
-| [**sistema-votacao**](./sistema-votacao/) | Sistema de votação por terminal com contagem de votos | Python, Dicionários, Repetição |
+| [**estudo-python**](https://github.com/marcellods99/marcellods99-github) | Repositório com meus exercícios em Python dos cursos Alura e Curso em Vídeo | Python, Condicionais, Loops, Strings |
 
 <br>
-
-### Mini projetos adicionados
-- [calculadora-python](./calculadora-python/)
-- [texto-utils](./texto-utils/)
-- [coleta-dados](./coleta-dados/)
-- [sistema-votacao](./sistema-votacao/)
 
 ---
 
