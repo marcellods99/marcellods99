@@ -22,16 +22,18 @@
 
 Atualmente estudo **Desenvolvimento de Sistemas** e estou construindo minha base em **Python**, **lógica de programação**, **banco de dados** e **ciência de dados**.
 
-Também atuo com **suporte de TI e sistemas corporativos**, realizando rotinas como criação de usuários, liberação de acessos, autorizações para funcionários e ajustes cadastrais/contratuais em sistemas como o **Globus**. Meu foco no Globus é operacional e administrativo, não desenvolvimento de código.
+Também atuo com **suporte de TI e sistemas corporativos**, realizando rotinas como criação de usuários, liberação de acessos, autorizações para funcionários e ajustes cadastrais/contratuais em sistemas como o **Globus**.
 
-Busco evoluir de forma prática, criando pequenos projetos e exercícios para consolidar fundamentos antes de avançar para projetos maiores.
+No trabalho, desenvolvo **sistemas internos**: APIs em **Python (FastAPI)**, telas em **React** e consultas **SQL** em **PostgreSQL** e **Oracle**. Esses projetos são privados; aqui ficam os estudos e os projetos pessoais.
+
+Busco evoluir de forma prática, criando pequenos projetos e exercícios para consolidar fundamentos.
 
 ---
 
 ## 🛡️ Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,postgres,mysql,git,github,vscode,java" />
 </div>
 
 ---
@@ -54,6 +56,10 @@ Busco evoluir de forma prática, criando pequenos projetos e exercícios para co
 | [**media-temperaturas**](./media-temperaturas/) | Calcula a média de temperaturas até o usuário informar o valor de parada | Python, While, Acumulador, Contador |
 | [**validacao-notas**](./validacao-notas/) | Valida 15 notas, repetindo a entrada até o valor estar entre 0 e 5 | Python, For, While, Validação |
 | [**calculadora-analise**](./calculadora-analise/) | Calculadora que também analisa se os números são pares, positivos e inteiros | Python, Condicionais, Operadores |
+| [**calculadora-python**](./calculadora-python/) | Calculadora com soma, subtração, multiplicação, divisão e média ponderada | Python, Funções, While, Try/Except |
+| [**coleta-dados**](./coleta-dados/) | Lê nome, idade e altura, valida a entrada e classifica a maioridade | Python, Funções, While, Validação |
+| [**sistema-votacao**](./sistema-votacao/) | Votação em quatro candidatos, com nulos, brancos, contagem e vencedor | Python, For, While, Contadores |
+| [**texto-utils**](./texto-utils/) | Utilitários de texto: maiúsculas, minúsculas, espaços duplicados, substituição e máscara | Python, Funções, Strings |
 | [**estudo-python**](https://github.com/marcellods99/estudo-python) | Repositório com meus exercícios em Python dos cursos Alura e Curso em Vídeo | Python, Condicionais, Loops, Strings |
 
 ---
