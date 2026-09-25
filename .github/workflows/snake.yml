@@ -10,6 +10,11 @@ on:
   # Permite rodar manualmente clicando num botão (ótimo para testar!)
   workflow_dispatch:
 
+  # Roda também quando este arquivo muda
+  push:
+    branches: [main]
+    paths: [.github/workflows/snake.yml]
+
 # 2. O TRABALHO (O que fazer?)
 jobs:
   build:
