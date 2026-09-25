@@ -3,9 +3,9 @@ name: Generate Snake
 
 # 1. GATILHOS (Quando rodar?)
 on:
-  # Roda automaticamente a cada 24 horas
+  # Roda automaticamente a cada 6 horas
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 */6 * * *"
   
   # Permite rodar manualmente clicando num botão (ótimo para testar!)
   workflow_dispatch:
@@ -21,13 +21,17 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Gerar a Cobrinha (Snake Game)
         uses: Platane/snk@v3
         with:
           # O nome do usuário (pega automático do repositório)
           github_user_name: ${{ github.repository_owner }}
+
+          # Token pessoal (segredo SNAKE_TOKEN) para enxergar as contribuições
+          # dos repositórios privados; sem ele, a cobrinha só vê as públicas
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           
           # AQUI É IMPORTANTE: Define os arquivos que serão gerados
           # Note que estamos gerando EXATAMENTE o nome que está no seu README
